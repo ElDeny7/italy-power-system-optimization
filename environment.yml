@@ -1,0 +1,5 @@
+name: ita-power-model
+dependencies:
+  - python=3.11
+  - pyomo
+  - pandas
